@@ -23,7 +23,7 @@ if __name__ == "__main__":
     for i in range(count):
         mark.append([input(),float(input())])
     ans,mark = Sort(mark)
-    
+
     for i in mark:
         if i[1]==ans:
             print(i[0])
