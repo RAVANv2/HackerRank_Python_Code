@@ -1,7 +1,7 @@
 #21/03/2020
 
 s=input()
-l = len(s) 
+    l = len(s) 
 li=[]
 for i in s:
     li.append(i)
